@@ -41362,16 +41362,14 @@ b6=A.a1(d9,A.bw(A.b([new A.eq(d9,c1.b,d9,d9),c2,new A.eq(d9,c3.b,d9,d9),new A.fD
 b7=A.j(150,150)
 n[l]=new A.vp(B.aP,B.aZ,B.L,A.b([b6,new A.d2(B.hS,d9,d9,A.ln("assets/images/Google Reviews.png",A.j(40,40).a,b7.a),d9)],s),d9)}b1=A.a1(d9,A.bw(A.b([b1,b2,A.Q(A.bu(A.b([b3,A.ch(A.Q(A.te(f3.ch,n,A.td(!0,A.j(460,460).b,!1,0.25)),d9,b5.a),d9,d9),A.jX(d9,B.mp,new A.aou(f2),d9,d9)],s),B.p,B.a8,B.n),d9,d9)],s),B.p,B.r,B.n),B.f,d9,d9,d9,d9,d9,d9,d9)
 b2=A.Q(d9,A.j(40,40).b,d9)
-b3=A.aD(e2,"Our Corporate Gifting Clientele",B.m,B.h,$.C().F(18),B.B)
-b5=A.Q(d9,A.j(10,10).b,d9)
-b6=A.aD(e2,"Luxuriously impactful corporate gifts & hampers",B.m,B.h,$.C().F(16),B.o)
-b7=A.Q(d9,A.j(20,20).b,d9)
-b8=A.jX(d9,B.mo,new A.aov(f2),d9,d9)
-b9=A.j(f0,f0)
+b3=A.aD(e2,"Our Corporate Gifting Clients",B.m,B.h,$.C().F(18),B.B)
+b5=A.Q(d9,A.j(20,20).b,d9)
+b6=A.jX(d9,B.mo,new A.aov(f2),d9,d9)
+b7=A.j(f0,f0)
 n=J.dN(6,o)
-for(l=0;l<6;++l){c1=A.j(100,100)
-c2=A.j(30,30)
-n[l]=A.a1(d9,d9,B.f,d9,d9,new A.aU(d9,A.l1(d9,new A.da($.aWP[l].h(0,e0),d9,d9)),d9,d9,d9,d9,B.x),c2.b,d9,d9,c1.a)}f3=A.a1(d9,A.bw(A.b([b3,b5,b6,b7,A.Q(A.bu(A.b([b8,A.ch(A.Q(A.te(f3.CW,n,A.td(!0,A.j(100,100).b,!1,0.167)),d9,b9.a),d9,d9),A.jX(d9,B.mp,new A.aow(f2),d9,d9)],s),B.p,B.a8,B.n),d9,d9)],s),B.p,B.r,B.n),B.f,d9,d9,d9,d9,d9,d9,d9)
+for(l=0;l<6;++l){b8=A.j(100,100)
+b9=A.j(30,30)
+n[l]=A.a1(d9,d9,B.f,d9,d9,new A.aU(d9,A.l1(d9,new A.da($.aWP[l].h(0,e0),d9,d9)),d9,d9,d9,d9,B.x),b9.b,d9,d9,b8.a)}f3=A.a1(d9,A.bw(A.b([b3,b5,A.Q(A.bu(A.b([b6,A.ch(A.Q(A.te(f3.CW,n,A.td(!0,A.j(100,100).b,!1,0.167)),d9,b7.a),d9,d9),A.jX(d9,B.mp,new A.aow(f2),d9,d9)],s),B.p,B.a8,B.n),d9,d9)],s),B.p,B.r,B.n),B.f,d9,d9,d9,d9,d9,d9,d9)
 b3=A.Q(d9,A.j(40,40).b,d9)
 b5=A.Q(d9,A.j(20,20).b,d9)
 b6=A.aD(e2,"LOOPZ",B.m,B.h,$.C().F(18),B.B)
@@ -41627,7 +41625,7 @@ $0(){},
 $S:0}
 A.D7.prototype={
 K(a){var s="supera_gothic",r=null
-return A.Q(A.bw(A.b([A.aD(s,"Treasured Connections",B.m,B.h,this.c,B.B),A.Q(r,this.d,r),A.aD(s,"Heartfelt Surprises Meaningful hampers for every cherished occasion and\xa0relationship",B.m,B.h,this.e,B.o)],t.p),B.p,B.r,B.n),r,r)}}
+return A.Q(A.bw(A.b([A.aD(s,"Heartfelt Surprises",B.m,B.h,this.c,B.B),A.Q(r,this.d,r),A.aD(s,"Meaningful hampers for every cherished occasion and\xa0relationship",B.m,B.h,this.e,B.o)],t.p),B.p,B.r,B.n),r,r)}}
 A.oS.prototype={
 K(a){var s=null,r=A.j(200,200),q=A.cS(s,s,B.k,s,s,s,s,s,s,s,s,$.C().F(12),s,s,B.o,s,s,!0,s,s,s,s,s,s,s,s),p=$.C().F(10),o=$.C().F(12)
 return A.Q(A.kq(A.j1(s,s,s,new A.ah(o,p,o,p),s,s,s,s,!0,B.Us,s,s,s,s,s,s,s,s,s,s,s,B.Uu,s,s,s,s,s,s,s,q,this.c,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s),A.cS(s,s,B.k,s,s,s,s,s,s,s,s,$.C().F(12),s,s,B.o,s,s,!0,s,s,s,s,s,s,s,s),B.bG),s,r.a)}}
