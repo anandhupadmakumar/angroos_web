@@ -7155,7 +7155,7 @@ mN:function mN(){},
 Mz:function Mz(){},
 QD:function QD(){},
 aTP(){var s=null,r=t.z
-return A.a([A.awx(s,s,s,B.nf,B.ng,B.P,s,!1,s,!0,s,"/home",!0,new A.auq(),s,s,s,!0,!0,s,B.yX,B.b_,s,r),A.awx(s,s,s,B.nf,B.ng,B.P,s,!1,s,!0,s,"/build-your-own-hamper",!0,new A.aur(),s,s,s,!0,!0,s,B.yX,B.b_,s,r)],t.RT)},
+return A.a([A.awx(s,s,s,B.nf,B.ng,B.P,s,!1,s,!0,s,"/",!0,new A.auq(),s,s,s,!0,!0,s,B.yX,B.b_,s,r),A.awx(s,s,s,B.nf,B.ng,B.P,s,!1,s,!0,s,"/build-your-own-hamper",!0,new A.aur(),s,s,s,!0,!0,s,B.yX,B.b_,s,r)],t.RT)},
 auq:function auq(){},
 aur:function aur(){},
 a7e(){var s,r=$.ay,q=t.wC,p=t.Fe,o=new A.NZ($,!0,!1,new A.k1(A.a([],t.Bt),t.EL),A.D(t.HE,t.d_))
@@ -40227,7 +40227,7 @@ else r=A.bF(a,s,r).w.a.a<630?B.OM:B.OG
 return new A.BL(new A.acI(),!0,!0,r,s)}}
 A.acI.prototype={
 $2(a,b){var s=null
-return new A.pA("/home","Angroos",A.vD(s,A.azD(B.ag,s,s,B.JW),s,!0),!1,A.aTP(),s)},
+return new A.pA("/","Angroos",A.vD(s,A.azD(B.ag,s,s,B.JW),s,!0),!1,A.aTP(),s)},
 $S:542}
 A.Bv.prototype={
 K(a){return new A.q_(new A.afB(this),null)}}
@@ -41834,7 +41834,7 @@ A.ans.prototype={
 $0(){return this.a.zz(0,this.b,"Menu 1-1-1-2 tap")},
 $S:0}
 A.anv.prototype={
-$0(){A.aMI($.b4(),"build-your-own-hamper",t.z)},
+$0(){A.aMI($.b4(),"/build-your-own-hamper",t.z)},
 $S:0}
 A.mQ.prototype={
 PW(){return this.b.w.$1(B.ly)},
