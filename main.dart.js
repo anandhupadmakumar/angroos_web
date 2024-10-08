@@ -42156,20 +42156,22 @@ r.dW$.i8(r.gm(0))
 s.Ok()}},
 $S:41}
 A.anC.prototype={
-$1(a){var s,r,q,p,o=this
+$1(a){var s,r,q,p,o,n=this
 A.cs(a)
-s=o.a
-r=s.d==null&&o.b===0
-q=o.b
-p=s.e.db
-if(r){r=p.ev$
+s=n.a
+r=s.d==null&&n.b===0
+q=n.b
+p=s.e
+o=p.db
+if(r){r=o.ev$
 r===$&&A.b()
 J.eu(r,q,50)
-p.dW$.i8(p.gm(0))
-s.adk(o.c,new A.l(0,A.c(180,180).b),q)}else{s=p.ev$
+o.dW$.i8(o.gm(0))
+r=p.cy.gm(0)?A.c(180,180).b:A.c(140,140).b
+s.adk(n.c,new A.l(0,r),q)}else{s=o.ev$
 s===$&&A.b()
 J.eu(s,q,50)
-p.dW$.i8(p.gm(0))}},
+o.dW$.i8(o.gm(0))}},
 $S:45}
 A.anE.prototype={
 $0(){var s=null,r=J.aW(this.a.e.db.gm(0),this.b),q=A.cL(0,0,500),p=new A.a4(B.e,s,s,s,s,s,B.r)
